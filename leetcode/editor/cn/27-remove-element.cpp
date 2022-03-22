@@ -60,8 +60,6 @@
 
 
 #include "include/headers.h"
-#include <gtest/gtest.h>
-
 
 using namespace std;
 
@@ -69,16 +67,8 @@ using namespace std;
 class Solution {
 public:
     int removeElement(vector<int>& nums, int val) {
-        if (nums.size() != 0) {
-            for (std::vector<int>::iterator iterator = nums.begin(); iterator != nums.end(); iterator++) {
-                if (*iterator == val) {
-                    nums.erase(iterator);
-                    iterator--;
-                }
-            }
-            return nums.size();
-        }
-        return 0;    }
+
+    }
 };
 //leetcode submit region end(Prohibit modification and deletion)
 
@@ -86,9 +76,7 @@ public:
 int main()
 {
     Solution s;
-    vector<int> nums{3,2,2,3};
-    int res = s.removeElement(nums, 3);
-    (res, 2);
+    vector<int> data{7, 1, 5, 3, 6, 4};
     auto res = "Hello LeetCode";
     cout<<res<<endl;
 }
