@@ -120,6 +120,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/35-search-insert-position.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/35-search-insert-position.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com35" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/35-search-insert-position.cpp" />
+              <option name="titleSlug" value="search-insert-position" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/38-count-and-say.cpp">
           <value>
             <LeetcodeEditor>
@@ -159,6 +170,17 @@
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/5-longest-palindromic-substring.cpp" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/53-maximum-subarray.cpp">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/53-maximum-subarray.md" />
+              <option name="frontendQuestionId" value="leetcode-cn.com53" />
+              <option name="host" value="leetcode-cn.com" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/53-maximum-subarray.cpp" />
+              <option name="titleSlug" value="maximum-subarray" />
             </LeetcodeEditor>
           </value>
         </entry>
