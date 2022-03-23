@@ -1,1 +1,20 @@
-test
+\#include "include/headers.h"
+\#include "gtest/gtest.h"
+
+using namespace std;
+
+${question.code}
+
+int main()
+{
+    ::testing::InitGoogleTest();
+    Solution s;
+    vector<int> data{7, 1, 5, 3, 6, 4};
+    auto res = "Hello LeetCode";
+    cout<<res<<endl;
+    return RUN_ALL_TESTS();
+}
+
+TEST($!velocityTool.camelCaseName(${question.titleSlug}), ${question.frontendQuestionId}) {
+    EXPECT_EQ(1, 1);
+}
